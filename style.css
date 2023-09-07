@@ -1,0 +1,14 @@
+body{
+    font-size: x-large;
+    background-color: rgb(196, 255, 254);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#search{
+    height:3vh;
+    width:50%;
+    font-size: large;
+    text-align: center;
+  
+    /* font-family: ; */
+    background-color: rgb(194, 209, 206)
+}
